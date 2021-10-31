@@ -1,0 +1,17 @@
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\PumoS3UploadTest.exe
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\PumoS3UploadTest.deps.json
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\PumoS3UploadTest.runtimeconfig.json
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\PumoS3UploadTest.runtimeconfig.dev.json
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\PumoS3UploadTest.dll
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\PumoS3UploadTest.pdb
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+D:\Projects\PumoS3UploadTest\bin\Debug\netcoreapp3.1\AWSSDK.S3.dll
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.csproj.AssemblyReference.cache
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.AssemblyInfoInputs.cache
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.AssemblyInfo.cs
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.csproj.CoreCompileInputs.cache
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.csproj.CopyComplete
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.dll
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.pdb
+D:\Projects\PumoS3UploadTest\obj\Debug\netcoreapp3.1\PumoS3UploadTest.genruntimeconfig.cache
